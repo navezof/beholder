@@ -1,0 +1,6 @@
+item,type,damage,traits,keyword
+shotgun,ranged,10+1ED,spread,imperium
+lasgun,ranged,7+1ED,steadfast,projectile
+bolt pistol,ranged,7+1ED,brutal pistol,projectile
+power sword,melee,10+1ED,force,xeno
+power axe,melee,12+2ED,force,imperium
